@@ -1,1 +1,2 @@
-IyBtY3AtdGVzdApIZWxsbyBmcm9tIE1DUCB0ZXN0IHByb2plY3QhCg==
+# mcp-test
+Hello from MCP test project!
